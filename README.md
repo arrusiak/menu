@@ -1,4 +1,4 @@
-# cities-weather-frontend
+# menu
 
 ## Project setup
 ```
